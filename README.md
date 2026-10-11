@@ -23,7 +23,6 @@ Many business processes still run through older desktop applications that have n
 3. Fills in the **Account**, **Contact**, **Date** and **Amount** fields.
 4. Sets the **Status** to "Invoiced".
 5. Saves the record.
-<!-- CONFIRM: check steps 2 to 5 against your own flow's action list and edit if your sequence differs. Replace this comment with a numbered list of your 10 recorded actions if you want more detail. -->
 
 ## Input variables
 
@@ -35,8 +34,6 @@ The flow uses four text input variables so the values entered are not hardcoded:
 | `Amount` | Text | The amount of the invoice |
 | `Contact` | Text | The contact email address |
 | `Date` | Text | The invoice date |
-
-<!-- CONFIRM: only keep this section if you completed the "add input variables" step. If your flow still uses hardcoded values, delete this section. -->
 
 ## How it was built
 
