@@ -46,7 +46,7 @@ The flow uses four text input variables so the values entered are not hardcoded:
 
 This screenshot shows the actions configured in the Power Automate flow.
 
-![Power Automate flow action list](Images/flow-actions.png)
+![Power Automate flow action list](Images/flow-actions.png.png)
 
 ### Successful Execution
 
