@@ -75,7 +75,7 @@ I built this flow while working through Microsoft Learn's Power Automate for des
 
 ## Certificate
 
-![Certificate](Certificate.png)
+![Certificate](Images/Certificate.png)
 
 ## Related
 
