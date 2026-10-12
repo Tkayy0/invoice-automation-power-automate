@@ -46,13 +46,13 @@ The flow uses four text input variables so the values entered are not hardcoded:
 
 This screenshot shows the actions configured in the Power Automate flow.
 
-![Power Automate flow action list](images/flow-actions.png)
+![Power Automate flow action list](Images/flow-actions.png)
 
 ### Successful Execution
 
 This screenshot shows the invoice record after the flow ran successfully, with its status set to "Invoiced".
 
-![Invoice record showing Invoiced status](images/contoso-invoice.png)
+![Invoice record showing Invoiced status](Images/contoso-invoice.png)
 
 ## Running it yourself
 
