@@ -62,7 +62,6 @@ This screenshot shows the invoice record after the flow ran successfully, with i
 4. Update the **Run Application** path to where Contoso Invoicing is installed on your machine.
 5. Run the flow and avoid using the computer while it runs, since the recorded actions control the mouse and keyboard.
 
-<!-- ADD FILE: flow-actions.txt (select all actions in the designer, copy, paste into a text file). Delete step 3's mention of it if you do not include one. -->
 
 ## Limitations
 
@@ -73,6 +72,10 @@ This screenshot shows the invoice record after the flow ran successfully, with i
 ## Background and credits
 
 I built this flow while working through Microsoft Learn's Power Automate for desktop material, using Microsoft's **Contoso Invoicing** sample app. The app and the learning content belong to Microsoft. The flow in this repo is my own implementation of the exercise.
+
+## Certificate
+
+![Certificate](Images/Screenshot 2026-10-12 013731.png)
 
 ## Related
 
