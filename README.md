@@ -42,12 +42,17 @@ The flow uses four text input variables so the values entered are not hardcoded:
 3. **Edited the recorded actions**, replacing hardcoded values with variables where needed.
 4. **Test ran the flow** and watched it reproduce the data entry in the Contoso Invoicing app.
 
-## Screenshots
+### Flow Actions
 
-<!-- ADD SCREENSHOT: images/flow-actions.png (the flow's action list in the designer) -->
-<!-- ADD SCREENSHOT: images/contoso-invoice.png (the invoice record after a run, showing Status "Invoiced") -->
+This screenshot shows the actions configured in the Power Automate flow.
 
-*Screenshots to be added.*
+![Power Automate flow action list](images/flow-actions.png)
+
+### Successful Execution
+
+This screenshot shows the invoice record after the flow ran successfully, with its status set to "Invoiced".
+
+![Invoice record showing Invoiced status](images/contoso-invoice.png)
 
 ## Running it yourself
 
