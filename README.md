@@ -81,5 +81,5 @@ I built this flow while working through Microsoft Learn's Power Automate for des
 
 I hold four Microsoft Learn certifications across Power BI, Power Apps, Power Automate and SharePoint.
 
-- GitHub: https://github.com/keeganchinyenze
+- GitHub: github.com/Tkayy0
 - LinkedIn: https://www.linkedin.com/in/keeganchinyenze
